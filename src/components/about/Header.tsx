@@ -26,7 +26,7 @@ const Header = () => {
 					<h1 className="text-xl font-semibold mt-5">Taufiqurrohman</h1>
 					<p className="text-lg">21120119120005</p>{' '}
 					<p className="text-lg text-gray-400">@{data.login}</p>{' '}
-					<p className="text-lg font-semibold max-w-sm text-center">Salam cuan bosque 🤙</p>
+					<p className="text-lg font-semibold max-w-sm text-center">Salam cuan bosque 🤓 🤙</p>
 					<p className="text-lg">
 						<a href={data.html_url} rel="noreferrer" target="_blank">
 							{data.html_url.replace(/^https?:\/\//, '')}
